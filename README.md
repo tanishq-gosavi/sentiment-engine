@@ -12,3 +12,6 @@ A real-time data streaming platform that analyzes live financial news using **Fi
 2. Run the Pipeline: `cd data-pipeline && python producer.py`
 3. Run the Backend: `cd ml-backend && python app.py`
 4. Run the UI: `cd frontend && npm run dev`
+=======
+# sentiment-engine
+>>>>>>> 884cca7317d1877e4b8a5f3aee97849263362506
